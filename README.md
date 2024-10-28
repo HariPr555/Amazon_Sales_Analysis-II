@@ -2,13 +2,13 @@
 This Power BI report delivers a dynamic analysis of Amazon's sales data, offering fresh insights into customer demographics, product trends, and sales performance across branches. Through interactive visuals, it highlights key patterns in purchasing behavior, top-performing products, and branch-specific dynamics. These insights empower Amazon to craft data-driven strategies that elevate customer experience, fine-tune product portfolios, and maximize revenue growth in an increasingly competitive market.
 
 ## Sales Analysis
-![image](https://github.com/user-attachments/assets/8ddaef80-38a9-4ede-a2f3-4547884a646f)
+![image](https://github.com/user-attachments/assets/d1cc52a3-3f6c-4922-b2bc-cd982091fa08)
 
 ## Product Analysis
-![image](https://github.com/user-attachments/assets/3fbe521d-878f-4962-86de-c9a1b13374f5)
+![image](https://github.com/user-attachments/assets/6bb6ff06-5c00-40bc-a205-2a0fd378dac1)
 
 ## Customer Analysis
-![image](https://github.com/user-attachments/assets/4016d4f0-5843-4304-b83f-76e74cf9dfe2)
+![image](https://github.com/user-attachments/assets/fb89a8e3-b4df-4a80-ad27-8e8fa4779f8a)
 
 ## Background
 Amazon is a global e-commerce leader, offering a wide range of products across multiple categories.The company is known for its customer-centric approach, vast product offerings, and innovations like Amazon Prime and Alexa. Its sales data provides insights into customer preferences, product performance, and revenue trends across different regions. Analyzing this data helps businesses optimize strategies for better market targeting and inventory management.
